@@ -4,7 +4,7 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
-import QuranDisplay from "./components/QuranDisplay.jsx";
+
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
       <Skills />
       <Work />
       <Contact />
-      <QuranDisplay />
+      
       
 
     </div>
