@@ -7,7 +7,7 @@ import react from '../assets/react.png';
 import Git from '../assets/github.png';
 import Python from '../assets/python.png';
 import mysql from '../assets/mysql.png';
-import nodejs from '../assets/nodejs.png';
+// import nodejs from '../assets/nodejs.png';
 import php from '../assets/php.png';
 
 
@@ -24,42 +24,42 @@ const Skills = () => {
                    </div> 
                    <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
                         <div className='  hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={HTML} alt='image'  />
+                        <img className='w-20 mx-auto' src={HTML} alt='img'  />
                         <p className='my-4'> HTML</p>
                         </div>
 
                         <div className=' hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={CSS} alt='image'  />
+                        <img className='w-20 mx-auto' src={CSS} alt='img'  />
                         <p className='my-4'> CSS</p>
                         </div>
 
                         <div className='  hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={JavaScript} alt='image'  />
+                        <img className='w-20 mx-auto' src={JavaScript} alt='img'  />
                         <p className='my-4'> JavaScript</p>
                         </div>
 
                         <div className='  hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={react} alt='image'  />
+                        <img className='w-20 mx-auto' src={react} alt='img'  />
                         <p className='my-4'> ReactJS</p>
                         </div>
 
                         <div className=' hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Git} alt='image'  />
+                        <img className='w-20 mx-auto' src={Git} alt='img'  />
                         <p className='my-4'> Github</p>
                         </div>
 
                         <div className='  hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Python} alt='image'  />
+                        <img className='w-20 mx-auto' src={Python} alt='img'  />
                         <p className='my-4'> Python</p>
                         </div>
 
                         <div className='   hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={mysql} alt='image'  />
+                        <img className='w-20 mx-auto' src={mysql} alt='img'  />
                         <p className='my-4'> MySQL</p>
                         </div>
 
                         <div className='  hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={php} alt='image'  />
+                        <img className='w-20 mx-auto' src={php} alt='img'  />
                         <p className='my-4'> php</p>
                         </div>
 

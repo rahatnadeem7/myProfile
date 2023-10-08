@@ -1,11 +1,12 @@
 import React from 'react'
-import shinyonaika from '../assets/shinyonaika.webp';
+
 import MediAssist from '../assets/mediassist.png';
 import NextJS from '../assets/nextjs.png';
 import reactjsimg from '../assets/reactjsimg.png';
 import vision from '../assets/vision.png';
 import basicweb from '../assets/basicweb.png';
 import shinyonaikaimg from '../assets/shinyonaika.png';
+import codeeditor from '../assets/code-editor.png';
 const Work = () => {
   return (
     <div name='work' className='w-full md:h-screen '>
@@ -28,7 +29,7 @@ const Work = () => {
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        MediAssist
+MediAssist
                         </span>
                         
                         <div className='pt-8 text-center'>
@@ -46,12 +47,12 @@ const Work = () => {
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                            Project Vision
+Project Vision
                         </span>
                         
                         <div className='pt-8 text-center'>
                             
-                            <a href='/'>
+                            <a href='Project_Vision.pdf'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Get Code</button>
                             </a>
 
@@ -85,7 +86,7 @@ ReactJS-Application
                         </span>
                         <div className='pt-8 text-center'>
                             
-                            <a href='/'>
+                            <a href='https://github.com/rahatnadeem7/reactjs-myprofile.git'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Get Code</button>
                             </a>
 
@@ -102,7 +103,7 @@ Basic website
                         </span>
                         <div className='pt-8 text-center'>
                             
-                            <a href='/'>
+                            <a href='https://github.com/rahatnadeem7/basic-website.git'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Get Code</button>
                             </a>
 
@@ -115,13 +116,32 @@ Basic website
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-Project Shinyonaika
+
                         </span>
-                        <div className='pt-8 text-center'>
+                        <div className='pt-8 text-center '>
                             
                             <a href='https://lablab.ai/event/salz21-ai-hackathon/mavericks/shinyonaika'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Get Code</button>
                             </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                style={{backgroundImage: `url(${codeeditor})`}}
+                 className='shadow-lg shadow-teal-600 bg-teal-600  group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100 '>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+
+                        </span>
+                        <div className='pt-8 text-center'>
+                            
+                            <a href='https://github.com/rahatnadeem7/code-editor.git'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Get Code</button>
+                            </a>
+                            
 
                         </div>
                     </div>

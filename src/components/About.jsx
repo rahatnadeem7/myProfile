@@ -14,7 +14,7 @@ const About = () => {
                 </div> 
                  <div className='max-w-[1000px] w-full px-4 sm:grid grid-cols-2 gap-8'></div> 
                 <div>
-                    <img src={Full} alt='image' style={{width: '350px'}}  />
+                    <img src={Full} alt='img' style={{width: '350px'}}  />
                 </div>
                     <div className='font-serif max-w-[1000px] w-full px-4 sm:grid-cols-2 gap-8 '>
                     <h1>One of my core competencies is my proficiency in 

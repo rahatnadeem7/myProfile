@@ -5,6 +5,7 @@ import Logo from '../assets/logo.webp';
 import { HiOutlineMail } from 'react-icons/hi';
 import {Link} from 'react-scroll';
 
+
 const Navbar = () => {
     const [nav, setNav] = useState(false)
     const handleClick = () => setNav(!nav)
@@ -95,7 +96,7 @@ const Navbar = () => {
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  '>
                 <a className='flex justify-between items-center w-full '
-                 href="/" >
+                 href="https://github.com/rahatnadeem7" >
                     Github<FaGithub/>
                 </a>
                 </li>
@@ -106,8 +107,8 @@ const Navbar = () => {
                 </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  '>
-                <a className='flex justify-between items-center w-full '
-                 href="myresume.pdf" target="_blank" rel="noopener noreferrer"  >
+                <a className='flex justify-between items-center w-full   '
+                 href="myresume.png" target="myresume.png" >
                     Resume<BsFillPersonLinesFill/>
                 </a>
                 </li>
