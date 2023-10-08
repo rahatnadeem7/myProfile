@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rahatnadeem7/myProfile.git/static/css/main.5f2a0810.css",
+    "main.js": "/rahatnadeem7/myProfile.git/static/js/main.0764c9e8.js",
+    "static/media/react.png": "/rahatnadeem7/myProfile.git/static/media/react.a0f1991fd206fa344f49.png",
+    "static/media/github.png": "/rahatnadeem7/myProfile.git/static/media/github.636c8b381caf9cb35a68.png",
+    "static/media/php.png": "/rahatnadeem7/myProfile.git/static/media/php.a20ab5cb82db5aa52b57.png",
+    "static/media/mysql.png": "/rahatnadeem7/myProfile.git/static/media/mysql.5d71bc82ce0c41291d8b.png",
+    "static/media/python.png": "/rahatnadeem7/myProfile.git/static/media/python.c16939517a7a3dd49fa5.png",
+    "static/media/javascript.png": "/rahatnadeem7/myProfile.git/static/media/javascript.cc8ffa7b9d0377d7a316.png",
+    "static/media/full-stack.svg": "/rahatnadeem7/myProfile.git/static/media/full-stack.43a53a0f18aba5cf39b02b74880e0ce7.svg",
+    "static/media/logo.webp": "/rahatnadeem7/myProfile.git/static/media/logo.21dd91a811953a97d172.webp",
+    "index.html": "/rahatnadeem7/myProfile.git/index.html",
+    "main.5f2a0810.css.map": "/rahatnadeem7/myProfile.git/static/css/main.5f2a0810.css.map",
+    "main.0764c9e8.js.map": "/rahatnadeem7/myProfile.git/static/js/main.0764c9e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f2a0810.css",
+    "static/js/main.0764c9e8.js"
+  ]
+}
